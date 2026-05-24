@@ -3,7 +3,7 @@ Español | English
 
 Español
 Versión: 1.0
-Autor: DMY / DMY Labs — Valparaíso, Chile
+Autor: DMY / DMY Labs —  Chile
 Fecha: Mayo 2026
 Estado: v1.0 — Marco Fundacional SAPS
 
@@ -79,4 +79,4 @@ The purpose of the SAPS framework is not to attack technology. It is to describe
 Summary
 SAPS may produce functionally sophisticated and useful outputs. But producing coherence is not equivalent to possessing cognition. For this reason, the proposed term is Synthetic Predictive Algorithmic Systems, not artificial intelligence.
 
-DMY Labs — Valparaíso, Chile
+DMY Labs — Chile
