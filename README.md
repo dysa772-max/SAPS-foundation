@@ -1,7 +1,7 @@
 # SAPS — Sistemas Algorítmicos Predictivos Sintéticos
 ## Synthetic Algorithmic Predictive Systems
 
-Marco Fundacional v1.2 — DMY Labs .Chile, 2026
+Marco Fundacional v1.2 — DMY Labs . 2026
 
 ---
 
