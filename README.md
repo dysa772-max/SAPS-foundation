@@ -26,7 +26,8 @@ rigorous alternative to the term "artificial intelligence".
 - Versión: 1.2
 - Autor: DMY / DMY Labs
 - GitHub Hash: `589a5780d645722d81ff881c667164a937ba1f24`
-- Registro INAPI: En trámite
+- Registro : Licencia: Creative Commons Attribution-NoDerivatives 4.0 International  
+https://creativecommons.org/licenses/by-nd/4.0/
 
 ---
 
